@@ -7,7 +7,6 @@ import BreadCrumb from '../../../../Components/Common/BreadCrumb';
 
 
 //import images
-import progileBg from '../../../../assets/images/profile-bg.jpg';
 import avatar1 from '../../../../assets/images/users/avatar-1.jpg';
 
 const SingleOptions = [
