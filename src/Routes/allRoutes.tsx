@@ -232,7 +232,6 @@ import PrivacyPolicy from '../pages/Pages/PrivacyPolicy';
 import TermsCondition from '../pages/Pages/TermsCondition';
 
 // // User Profile
-import UserProfile from "../pages/Authentication/user-profile";
 
 import RangeArea from "../pages/Charts/ApexCharts/RangeAreaCharts/Index";
 import FunnelChart from "../pages/Charts/ApexCharts/FunnelCharts/Index";
@@ -455,7 +454,6 @@ const authProtectedRoutes = [
 
 
   //User Profile
-  { path: "/profile", component: <UserProfile /> },
 
   // this route should be at the end of all other routes
   // eslint-disable-next-line react/display-name
